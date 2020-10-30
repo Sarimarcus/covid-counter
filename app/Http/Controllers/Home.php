@@ -30,7 +30,8 @@ class Home extends Controller
                     break;
 
                 case 'France':
-                    $start = '2020-03-16 12:00:00';
+                    //$start = '2020-03-16 12:00:00';
+                    $start = '2020-10-30 23:59:59';
                     break;
 
                 case 'Serbia':
